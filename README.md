@@ -1,0 +1,1 @@
+Using <figure> tag to upload images to the web page
